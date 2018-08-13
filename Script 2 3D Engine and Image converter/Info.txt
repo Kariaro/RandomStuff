@@ -1,0 +1,11 @@
+Made in 2 days.. Except the 3d engine.. that took way longer
+Date: 2018-08-13
+
+Just fixed my first ever method to apply more than 16 colors on the console
+without using GDI+.
+
+The idea was to use the full block characters with background and
+foreground color to make it look like a new color.
+
+Using this method i was able to create 384 different combinations.
+And thats a lot more than 16 :D
